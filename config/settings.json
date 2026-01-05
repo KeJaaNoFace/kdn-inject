@@ -1,0 +1,9 @@
+{
+    "sqlmap_path": "bin/sqlmap/sqlmap.py",
+    "timeout": 30,
+    "user_agent": "KDN-INJECT/2.0",
+    "github_repo": "https://github.com/KeJaaNoFace/kdn-inject",
+    "auto_update": true,
+    "debug_mode": false,
+    "max_threads": 10
+}
