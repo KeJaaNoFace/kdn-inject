@@ -114,7 +114,7 @@ def create_config():
         "sqlmap_path": "bin/sqlmap/sqlmap.py",
         "timeout": 30,
         "user_agent": "KDN-INJECT/2.0",
-        "github_repo": "https://github.com/kejaadarknet/kdn-inject"
+        "github_repo": "https://github.com/KeJaaNoFace/kdn-inject"
     }
     
     import json
@@ -167,7 +167,7 @@ def main():
     print(f"\n{Fore.YELLOW}[*] GITHUB DEPLOYMENT:{Style.RESET_ALL}")
     print(f"Upload this folder to GitHub")
     print(f"Users can install with:")
-    print(f"  git clone https://github.com/kejaadarknet/kdn-inject")
+    print(f"  git clone https://github.com/KeJaaNoFace/kdn-inject")
     print(f"  cd kdn-inject")
     print(f"  python3 setup.py")
     print(f"{Fore.CYAN}{'='*60}{Style.RESET_ALL}")
