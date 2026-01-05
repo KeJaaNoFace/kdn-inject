@@ -2,7 +2,7 @@
 """
 KDN INJECT v2.0 - Ultimate SQLi & Deface Tool
 Author: KeJaaDarkNet
-GitHub: github.com/kejaadarknet/kdn-inject
+GitHub: github.com/KeJaaNoFace/kdn-inject
 """
 
 import os
